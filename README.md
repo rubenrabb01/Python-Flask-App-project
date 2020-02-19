@@ -1,4 +1,4 @@
-# 12-day-course-notebook
+# Python on creating an App 
 
 In this notebook I capture my work with Python in handling Pandas data frames, simplejson for web scraping, plots using Bokeh, etc. 
 The code shown here describes the steps taken to a Flask app that worked with Python through the command console. 
