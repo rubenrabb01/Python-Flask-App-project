@@ -1,4 +1,4 @@
-# Python on creating an App 
+# Python Flask App project
 
 In this notebook I capture my work with Python in handling Pandas data frames, simplejson for web scraping, plots using Bokeh, etc. 
 The code shown here describes the steps taken to a Flask app that worked with Python through the command console. 
